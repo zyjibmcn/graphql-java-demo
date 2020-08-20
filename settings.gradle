@@ -1,0 +1,4 @@
+rootProject.name = 'graphql-java-demo'
+include 'graphql-java-server'
+include 'graphql-java-client'
+
